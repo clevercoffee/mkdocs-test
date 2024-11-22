@@ -6,8 +6,8 @@ theme:
  language: de
  icon:
   repo: fontawesome/brands/github 
- logo: /img/logos/CleverCoffee.png
- favicon: /img/logos/CleverCoffee.png
+ logo: img/logos/CleverCoffee.png
+ favicon: img/logos/CleverCoffee.png
  features:
   - navigation.tabs
   - navigation.sections
